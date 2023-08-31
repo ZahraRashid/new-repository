@@ -1,0 +1,11 @@
+<div class="hero-section container block">
+  <img src="/banvaz/assets/images/Group 2356.png" alt="" />
+  <div class="hero-section__details">
+    <h2>خیالت از خونه راحت!</h2>
+    <p>
+      بانواز واژه ای کردی به معنای باخبر ساختن با صدای بلند است .درست مثل
+      بانواز!با سنسورهای بانواز از هیچ اتفاقی بی خبر نیستی چه خونه باشی چه نه!
+    </p>
+    <button class="btn btn--white">فروشگاه بانواز</button>
+  </div>
+</div>
